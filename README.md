@@ -38,3 +38,5 @@ The latest release is tested on the following platforms:
 Instructions for setting up a dev environment and building this project can be found in [readme_developers.md](./docs/readme_developers.md).
 meu mico macaco macaco mico meu
 mamaco é muito maneiro bro boroororodjfosdjfosdjfosdjfsjfojsdfjsalkfmfeowfjeoiweufjmcxv,x,valdsjf
+
+faz o LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
